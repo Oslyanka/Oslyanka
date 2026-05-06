@@ -26,5 +26,9 @@ im into FOSS, Linux, pentesting, backend APIs, homelab/self-hosting stuff, and s
 
 trying to get better at backend engineering, secure development, testing, Linux, and running my own infrastructure.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oslyanka&show_icons=true&theme=dracula)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oslyanka&layout=compact&theme=dracula)
+## stats
+
+![](./profile-summary-card-output/github_dark/0-profile-details.svg)
+![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](./profile-summary-card-output/github_dark/3-stats.svg)
