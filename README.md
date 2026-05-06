@@ -32,3 +32,4 @@ trying to get better at backend engineering, secure development, testing, Linux,
 ![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![](./profile-summary-card-output/github_dark/3-stats.svg)
+![](./profile-summary-card-output/github_dark/4-productive-time.svg)
