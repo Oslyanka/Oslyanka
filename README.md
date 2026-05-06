@@ -1,15 +1,14 @@
-# hi
+# Hello
 
-im <!-- age:start -->20<!-- age:end --> y/o, studying Computer Science in Sao Paulo, Brazil.
+I am a <!-- age:start -->20<!-- age:end --> y/o, studying Computer Science in Sao Paulo, Brazil.
 
-im into FOSS, Linux, pentesting, backend APIs, homelab/self-hosting stuff, and small tools that are actually useful instead of just pretty.
+I am specially interested in FOSS, Linux and homelab/self-hosting stuff.
 
 ## stuff im working with
 
-- backend/API: Java, Spring Boot, C#, .NET, REST, SQL, JPA, Entity Framework
+- backend: Java, Spring Boot, C#, .NET, REST, SQL, JPA, Entity Framework
 - frontend: React, TypeScript, JavaScript, HTML/CSS
-- testing/automation: unit tests, API tests, GitHub Actions, simple scripts
-- security/homelab: Linux, Docker, OWASP ZAP, HTTP/TCP checks, self-hosting
+- testing/automation: unit tests, API tests, GitHub Actions, UiPath
 - python: small CLIs, SQLite tools, log/check runners
 
 ## projects worth checking out
@@ -24,7 +23,7 @@ im into FOSS, Linux, pentesting, backend APIs, homelab/self-hosting stuff, and s
 
 ## right now
 
-trying to get better at backend engineering, secure development, testing, Linux, and running my own infrastructure.
+trying to get better at backend engineering, Linux, and running my own infrastructure.
 
 ## stats
 
