@@ -1,6 +1,6 @@
 # Hello
 
-I am a <!-- age:start -->20<!-- age:end --> y/o, studying Computer Science in Sao Paulo, Brazil.
+I am a <!-- age:start -->21<!-- age:end --> y/o, studying Computer Science in Sao Paulo, Brazil.
 
 I am specially interested in FOSS, Linux and homelab/self-hosting stuff.
 
